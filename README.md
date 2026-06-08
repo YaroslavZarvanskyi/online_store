@@ -1,6 +1,7 @@
 # Online Store Project
 
 [![CI Pipeline](https://github.com/YaroslavZarvanskyi/online_store/actions/workflows/ci.yml/badge.svg)](https://github.com/YaroslavZarvanskyi/online_store/actions)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YaroslavZarvanskyi_online_store&metric=alert_status)](https://sonarcloud.io/dashboard?id=YaroslavZarvanskyi_online_store)
 [![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
 
 ## Опис
