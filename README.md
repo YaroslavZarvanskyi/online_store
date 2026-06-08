@@ -34,7 +34,7 @@ classDiagram
     CartRepository --> Product : stores
     ProductRepository --> Product : contains
 ```
-#### Встановлення
+## Встановлення
 Клонуйте репозиторій:
 
 git clone [https://github.com/ВАШ_НІК/ВАША_РЕПО.git](https://github.com/ВАШ_НІК/ВАША_РЕПО.git)
@@ -48,7 +48,7 @@ source venv/bin/activate  # Для Linux/macOS
 Встановіть залежності:
 pip install -r requirements.txt
 
-##### Тестування
+## Тестування
 Проєкт покритий 200+ автоматизованими тестами (unit tests).
 
 Запуск тестів:
