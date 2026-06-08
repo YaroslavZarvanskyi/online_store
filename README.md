@@ -1,6 +1,6 @@
 # Online Store Project
 
-[![CI Pipeline](https://github.com/YaroslavZarvanskyi/project2-refactoring/actions/workflows/ci.yml/badge.svg)](https://github.com/YaroslavZarvanskyi/project2-refactoring/actions)
+[![CI Pipeline](https://github.com/YaroslavZarvanskyi/online_store/actions/workflows/ci.yml/badge.svg)](https://github.com/YaroslavZarvanskyi/online_store/actions)
 [![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
 
 ## Опис
