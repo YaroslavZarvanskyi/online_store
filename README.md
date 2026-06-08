@@ -37,8 +37,7 @@ classDiagram
 ## Встановлення
 Клонуйте репозиторій:
 ```
-git clone https://github.com/YaroslavZarvanskyi/online_store.git
-cd ur_repo
+git clone [https://github.com/YaroslavZarvanskyi/online_store.git]
 ```
 Створіть та активуйте віртуальне середовище:
 ```
