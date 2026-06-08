@@ -36,23 +36,28 @@ classDiagram
 ```
 ## Встановлення
 Клонуйте репозиторій:
-
+```
 git clone [https://github.com/ВАШ_НІК/ВАША_РЕПО.git](https://github.com/ВАШ_НІК/ВАША_РЕПО.git)
 cd ur_repo
-
+```
 Створіть та активуйте віртуальне середовище:
+```
 python -m venv venv
 source venv/bin/activate  # Для Linux/macOS
 .\venv\Scripts\activate   # Для Windows
-
+```
 Встановіть залежності:
+```
 pip install -r requirements.txt
-
+```
 ## Тестування
 Проєкт покритий 200+ автоматизованими тестами (unit tests).
 
 Запуск тестів:
+```
 pytest tests/
-
+```
 Перевірка покриття коду (coverage):
+```
 pytest --cov=src tests/
+```
